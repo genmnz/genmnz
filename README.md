@@ -1,22 +1,24 @@
 <h1 align="center">✨ Melad ✨</h1>
+
 <h3 align="center">passionate bi developer, AI researcher and data analyst, future data scientist</h3>
-<p align="center"><sub>🎶 les posers j'les aime pas trop</sub></p>
 
 <p align="center">
-  <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=genmnz&theme=github_dark&custom_title=Languages&hide_border=true&layout=compact" alt="Languages">
-<!--   <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&custom_title=Time Invested&theme=github_dark&hide_border=true&layout=compact"> -->
-  <img   src="https://github-readme-stats.vercel.app/api?username=genmnz&theme=github_dark&show_icons=true&custom_title=Stats&hide_border=true" alt="Stats"> 
+    <sub>🎶 les posers j'les aime pas trop</sub>
 </p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genmnz&theme=github_dark&custom_title=Languages&hide_border=true&layout=compact" alt="Languages"><!--   <img > -->  
+<img src="https://github-readme-stats.vercel.app/api?username=genmnz&theme=github_dark&show_icons=true&custom_title=Stats&hide_border=true" alt="Stats"> 
+ </p>
 
 # Tech Stack
+
 <p align="center">
-  <img 
-  src="https://skillicons.dev/icons?i=js,ts,python,rust,r,ruby,julia,lua,tensorflow,tailwind,nodejs,nextjs,react,vite,cpp,bash,powershell,vim,vscode,windows,linux,html,css,figma,postgresql,docker,webpack,redis,github,git,grafana,aws,gcp,azure," />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,rust,r,ruby,julia,lua,tensorflow,tailwind,nodejs,nextjs,react,vite,cpp,bash,powershell,vim,vscode,windows,linux,html,css,figma,postgresql,docker,webpack,redis,github,git,grafana,aws,gcp,azure," />
 </p>
 
-
 **Status:** Currently existing in a superposition of employed and unemployed until the next standup meeting collapses the wave function.
+
 # Experience & skills 
 
 **Director of dynamic interpolation for comprehensive media distribution and analysis** as it applies to heuristic community building and efficient workplace design practices through the open ambiguity foundation. Former head of technical minutiae at the global foundation of situational systematic dependence and programmatic regression analysis. Lead team lead at corpcorp.
@@ -26,7 +28,6 @@
 **Senior Consultant for Existential Debugging** at the Department of Theoretical Practicality. Resolved critical issues in the space-time continuum of code repositories. Invented the revolutionary "Schrödinger's Commit" methodology - code that simultaneously works and doesn't work until observed by a production server.
 
 **Principal Engineer of Atmospheric Programming** specializing in cloud-to-brain interfaces and the development of sentient documentation that writes itself while you sleep. Led a team of 3.7 developers (the .7 was an intern who existed only on Tuesdays).
-
 
 # Currently Learning
 
@@ -66,14 +67,14 @@
 * Professional overthinker with a minor in catastrophic assumptions
 * Specialized in building robust systems that fail gracefully while screaming internally
 
-
 # Philosophy
 
-Vibe coding is obsolete, real ones **aura code**. We don't just have aura, we ARE the aura. The future belongs to those who can channel the ethereal essence of computational spirits through ritualistic keyboard summoning while maintaining maximum rizz-to-bug ratio.
+Vibe coding is obsolete, real ones aura code. We don't just have aura, we ARE the aura. The future belongs to those who can channel the ethereal essence of computational spirits through ritualistic keyboard summoning while maintaining maximum rizz-to-bug ratio.
 
 We don't just ship code - we literally slay with every commit. Our functions are bussin, our algorithms absolutely slap, and our documentation? No cap, it's giving main character energy. When production breaks, we don't panic - we simply emit chef's kiss error messages that are low-key poetry.
 
-*"Why fix bugs when you can befriend them and teach them to vibe?"* - Ancient DevOps Proverb (Verified on Stack Overflow, trust me bro)
+"Why fix bugs when you can befriend them and teach them to vibe?" - Ancient DevOps Proverb (Verified on Stack Overflow, trust me bro)
 
-**Current mood:** Touching grass between sprints while my code deploys itself because it knows I'm built different.
+Current mood: Touching grass between sprints while my code deploys itself because it knows I'm built different.
 
+<!-- YOLO: Added this trivial comment for the achievement -->
