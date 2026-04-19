@@ -1,5 +1,5 @@
 <h1 align="center">✨ Melad ✨</h1>
-<h3 align="center">passionate bi developer, AI researcher and data analyst, future data scientist</h3>
+<h3 align="center">bi developer, researcher and data analyst</h3>
 <p align="center"><sub>🎶 les posers j'les aime pas trop</sub></p>
 
 <p align="center">
